@@ -226,19 +226,6 @@ private int calcularHash(K clave) {
 
 ---
 
-## 👥 Integrantes del Equipo
-
-<table align="center">
-<tr>
-<td align="center">
-  <img src="https://github.com/asarazua.png" width="80" style="border-radius:50%"/><br/>
-  <b>Andrea Sarazua</b><br/>
-  <a href="https://github.com/asarazua">@asarazua</a>
-</td>
-</tr>
-</table>
-
----
 
 ## 🤝 Cómo contribuir (integrantes del equipo)
 
