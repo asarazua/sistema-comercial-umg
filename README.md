@@ -227,19 +227,6 @@ private int calcularHash(K clave) {
 ---
 
 
-## 🤝 Cómo contribuir (integrantes del equipo)
-
-```bash
-# 1. Clona el repositorio
-git clone https://github.com/asarazua/sistema-comercial-umg.git
-
-# 2. Haz tus cambios
-
-# 3. Confirma y sube
-git add .
-git commit -m "Descripción de lo que hiciste"
-git push origin main
-```
 
 ---
 
